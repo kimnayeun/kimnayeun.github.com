@@ -1,1 +1,5 @@
-
+body {background-color: #CCFFFF;}
+ul li a{font-family:cursive;}
+div p{ background-color:#FFCCCC; width:960px; margin:0 auto; padding:10px; }
+#hello{ font-family: Garamond,serif;}
+#hi{ font-family: Verdana,sans-serif;}
